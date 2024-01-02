@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is B.M. Rubel Islam</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/userupload/11794552/file/original-53e8266bf1b2f1e5b111c6241c444e3f.jpg?resize=850x850](https://img.freepik.com/premium-vector/handsome-genius-bearded-tech-computer-hacker-geek-with-laptop-showing-thumb-up-cartoon_12402-729.jpg?size=626&ext=jpg&uid=R132780189&ga=GA1.1.1639095616.1704104508&semt=ais)"
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/userupload/11794552/file/original-53e8266bf1b2f1e5b111c6241c444e3f.jpg?resize=850x850](https://img.freepik.com/premium-vector/handsome-genius-bearded-tech-computer-hacker-geek-with-laptop-showing-thumb-up-cartoon_12402-729.jpg?size=626&ext=jpg&uid=R132780189&ga=GA1.1.1639095616.1704104508&semt=ais)](https://images.unsplash.com/photo-1439436556258-1f7fab1bfd4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW5pbWF0aW9ufGVufDB8fDB8fHww)">
 - 🔭 I’m currently working on *Khajna Project(Daraz)*
 
 - 🌱 I’m currently learning *Next Js, React Native*
