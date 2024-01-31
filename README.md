@@ -16,11 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100009786228448&mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatkhan9330@gmail.com" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009786228448&mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bmrubelislam97@gmail.com" height="30" width="40" /></a>
 </p>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100009786228448&mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatkhan9330@gmail.com" height="30" width="40" /></a>
+<p align="right">
+  <a href="https://www.linkedin.com/in/b-m-rubel-islam-8b91012a9/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="bmrubelislam97@gmail.com" height="30" width="40" /> Linked
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
